@@ -1,4 +1,4 @@
-# SWYNEX Internship – Task 2
+# 
 
 Data Cleaning and Basic Analysis
 
